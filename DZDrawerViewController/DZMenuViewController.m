@@ -1,6 +1,6 @@
 //
 //  DZMenuViewController.m
-//  REFrostedVCDemo
+//  DZDrawerViewController
 //
 //  Created by zwz on 2017/5/18.
 //  Copyright © 2017年 zwz. All rights reserved.
